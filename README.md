@@ -13,7 +13,7 @@ I am currently pursuing my B.Tech in CSE (AI & ML) at AKGEC. I specialize in bui
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, JavaScript, C++
+- **Languages:** Python, JavaScript, C
 - **Frameworks & Libs:** Flask, React Native, PyTorch, TensorFlow, NumPy, Pandas
 - **Databases & Tools:** Git, GitHub, Docker, SQL
 
